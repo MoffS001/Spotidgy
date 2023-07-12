@@ -1,6 +1,6 @@
 Currently playing:
-        Track: St. Tropez Party Girl
-        Artist(s): Lana Del Rey
-        Album: Unreleased Collection – 2010
-        No album art available.
-        
+    Track: St. Tropez Party Girl
+    Artist(s): Lana Del Rey
+    Album: Unreleased Collection – 2010
+    Album Art URL: None
+    
